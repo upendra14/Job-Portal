@@ -3,6 +3,8 @@
 A full-stack job portal web application designed to streamline the job search and recruitment process for **students** and **recruiters**. The platform offers a user-friendly experience for both job seekers and employers, enabling them to connect efficiently.
 
 ![Screenshot (448)](https://github.com/user-attachments/assets/4c6d5221-56c8-4132-bad1-7f4bb8fd839b)
+![image](https://github.com/user-attachments/assets/e967ded7-b0e6-4ea3-9df5-034fe2a633be)
+
 ![Screenshot (445)](https://github.com/user-attachments/assets/79d5f11d-17cf-4a0f-b569-d498b793137d)
 ![Screenshot (450)](https://github.com/user-attachments/assets/051f2523-4cb9-41f8-a195-a41e6cfa60eb)
 ![Screenshot (449)](https://github.com/user-attachments/assets/b10f0340-e2d0-4d29-a342-7cf3b26a4d36)
